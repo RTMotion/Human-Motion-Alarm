@@ -25,9 +25,9 @@ Credit goes to deloarts for her code is the basis of my project.
 Arduino Pin |	RC522 Pin
 ------------|----------
 9	|RST
-10|	SDA
+10|	NSS
 11|	MOSI
 12|	MISO
-13|	NSS
+13|	SCK
 3V3|	3V3
 GND|	GND
