@@ -4,7 +4,7 @@ The purpose of this project is to make a motion sensor alarm that goes off when 
 
 ### Basic Idea 
  - The alarm will go off when the sensor detects motion.
- - When you present your key it will disarm the alarm. and will rearm after 3 seconds has passed.
+ - When you present your key it will disarm the alarm. and will re-arm after 5 seconds has passed.
  - If another key is presented that it does not know it will also sound off the alarm.
 
 Credit goes to deloarts for her code is the basis of my project.
