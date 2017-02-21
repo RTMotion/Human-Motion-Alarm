@@ -31,3 +31,7 @@ Arduino Pin |	RC522 Pin
 13|	SCK
 3V3|	3V3
 GND|	GND
+
+### Full integration Schematic
+For a visual aid visit my wordpress for the schematic and what it crually looks like wired up.
+https://rtmotionsecurityalarm.wordpress.com/2017/02/21/putting-it-all-together/
