@@ -7,7 +7,7 @@ The purpose of this project is to make a motion sensor alarm that goes off when 
  - When you present your key it will disarm the alarm. and will re-arm after 5 seconds has passed.
  - If another key is presented that it does not know it will also sound off the alarm.
 
-Credit goes to deloarts for her code is the basis of my project.
+Credit goes to deloarts for her code on the RFID-RC522 is the basis of my project.
 
 ### Components 
 - Active Peizo Buzzer
