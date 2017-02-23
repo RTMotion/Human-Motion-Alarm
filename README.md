@@ -33,5 +33,5 @@ Arduino Pin |	RC522 Pin
 GND|	GND
 
 ### Full integration Schematic
-For a visual aid visit my wordpress for the schematic and what it crually looks like wired up.
+For a visual aid visit my wordpress for the schematic and what it actually looks like wired up.
 https://rtmotionsecurityalarm.wordpress.com/2017/02/21/putting-it-all-together/
