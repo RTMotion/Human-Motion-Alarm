@@ -11,4 +11,4 @@ The alarm being a screaming Buzzer and RED LED
 
 ### Wired Out
 To see how it is all wired out Visit my Wordpress.
-https://rtmotionsecurityalarm.wordpress.com/2017/02/21/the-alarm/
+https://rtmotionsecurityalarm.wordpress.com/2017/02/28/motion-alarm-integration/
