@@ -10,7 +10,7 @@ The purpose of this project is to make a motion sensor alarm that goes off when 
 Credit goes to deloarts for her code on the RFID-RC522 is the basis of my project.
 
 ### Components 
-- Active Peizo Buzzer
+- 12VDC 76dB Peizo Buzzer
 - Ardunino UNO
 - Blue LED
 - Red LED
