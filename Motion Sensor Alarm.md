@@ -7,7 +7,7 @@ The alarm being a screaming Buzzer and RED LED
 - 10 Kohm Resistor
 - Blue LED
 - Red LED
-- Active Peizo Buzzer
+- 12VDC 76dB Peizo Buzzer
 
 ### Wired Out
 To see how it is all wired out Visit my Wordpress.
