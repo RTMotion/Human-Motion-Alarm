@@ -129,11 +129,13 @@ void loop()
   entered[i] = 0;
   Serial.println(entered[i]);
   }
-  digitalWrite(TILTREDLED,LOW);
+  digitalWrite(TILTREDLED,HIGH);
   digitalWrite(BLUELED,LOW);
   digitalWrite(GREENLED,LOW);
-  digitalWrite(BUZZ,LOW);
-  delay(250);
+  digitalWrite(BUZZ, HIGH);
+  delay(500);
+  digitalWrite(TILTREDLED,LOW);
+  digitalWrite(BUZZ, LOW);
   digitalWrite(BLUELED,HIGH);
   }
   }
