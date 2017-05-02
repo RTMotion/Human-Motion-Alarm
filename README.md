@@ -12,13 +12,14 @@ Credit goes to deloarts for her code on the RFID-RC522 is the basis of my projec
 ### Components 
 - 12VDC 76dB Peizo Buzzer
 - Ardunino UNO
-- Blue LED
-- Red LED
+- RGB LED
 - Tilt Ball Sensor 
 - RFID RC 522 Scanner
-- RFID key tag
+- 2 RFID key tag
 - 2 220 ohm Resistors
-- 10 Kohm Resistor
+- 6 10 Kohm Resistor
+- 6 NOPB
+
 
 ### Connection For RC522
 
